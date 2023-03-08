@@ -19,7 +19,7 @@ I'm a software engineer with +7 years of experience working in Startups, Big Com
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=fedeevilla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=fedeevilla&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
